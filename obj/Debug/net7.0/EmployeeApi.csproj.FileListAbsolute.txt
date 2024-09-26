@@ -1,0 +1,7 @@
+/Users/amankumar/amanTestApp/EmployeeApi/obj/Debug/net7.0/EmployeeApi.csproj.AssemblyReference.cache
+/Users/amankumar/amanTestApp/EmployeeApi/obj/Debug/net7.0/EmployeeApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amankumar/amanTestApp/EmployeeApi/obj/Debug/net7.0/EmployeeApi.AssemblyInfoInputs.cache
+/Users/amankumar/amanTestApp/EmployeeApi/obj/Debug/net7.0/EmployeeApi.AssemblyInfo.cs
+/Users/amankumar/amanTestApp/EmployeeApi/obj/Debug/net7.0/EmployeeApi.csproj.CoreCompileInputs.cache
+/Users/amankumar/amanTestApp/EmployeeApi/obj/Debug/net7.0/EmployeeApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/amankumar/amanTestApp/EmployeeApi/obj/Debug/net7.0/EmployeeApi.MvcApplicationPartsAssemblyInfo.cache
